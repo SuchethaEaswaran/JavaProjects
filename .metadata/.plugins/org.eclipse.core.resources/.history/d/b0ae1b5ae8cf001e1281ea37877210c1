@@ -1,0 +1,12 @@
+package test;
+
+public class SampleD {
+
+	public static void main(String[] args) {
+		SampleD xyz= new SampleD();
+		xyz.methodSampleA();
+		
+
+	}
+
+}
