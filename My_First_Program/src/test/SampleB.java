@@ -7,6 +7,7 @@ public class SampleB {
 		System.out.println("day");
 		System.out.println("..!");
 
+		
 	}
 
 }
